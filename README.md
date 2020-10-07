@@ -1,4 +1,4 @@
-#Algorithms For the People Final Project
+# Algorithms For the People Final Project
 
 ## Atlas of Surveillance
 The Atlas of Surveillance (AoS) is an EFF database of the surveillance technology owned and operated by
