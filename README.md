@@ -1,4 +1,15 @@
-### algos_final_project
+#Algorithms For the People Final Project
+
+## Atlas of Surveillance
+The Atlas of Surveillance (AoS) is an EFF database of the surveillance technology owned and operated by
+local law enforcement agencies. The DB can be downloaded as a csv (it’s about 3MB). In this project you
+will use the data in AoS to investigate how surveillance equipment is distributed across the US as a function
+of the racial and ethnic composition of a county, the median household income of a county, and any other
+characteristics you find interesting. To do this you will need other sources of data like the Census.
+
+https://atlasofsurveillance.org/
+
+## Data
 
 **potential dataset**: https://www.kaggle.com/muonneutrino/us-census-demographic-data
 
