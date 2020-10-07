@@ -1,8 +1,8 @@
 # Algorithms For the People Final Project
 
 ## TODO
-- [] clean Atlas csv dataset (turn into .db file)
-- [] investigate census data
+- [ ] clean Atlas csv dataset (turn into .db file)
+- [ ] investigate census data
 
 ## Atlas of Surveillance
 The Atlas of Surveillance (AoS) is an EFF database of the surveillance technology owned and operated by
