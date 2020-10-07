@@ -1,8 +1,8 @@
 ### algos_final_project
 
-potential dataset: https://www.kaggle.com/muonneutrino/us-census-demographic-data
+**potential dataset**: https://www.kaggle.com/muonneutrino/us-census-demographic-data
 
-demographic : this contains the accumulated populations for 2016, 2017, and
+**demographic**: this contains the accumulated populations for 2016, 2017, and
 2018 for each region, by age and sex. That is, for one row of the table, this gives
 the total number (in 2016, 2017, and 2018) of people of that age and that gender
 for the specific region.
