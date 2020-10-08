@@ -4,6 +4,7 @@
 - [ ] clean Atlas csv dataset (turn into .db file)
 - [ ] investigate census data
 - [ ] investigate what methods we want to use for analysis
+- [ ] write more detailed proposal
 
 ## Atlas of Surveillance
 The Atlas of Surveillance (AoS) is an EFF database of the surveillance technology owned and operated by
