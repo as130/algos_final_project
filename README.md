@@ -2,6 +2,7 @@
 
 ## Notes
 - Should we do a prediction test, and then as a reach goal have this website that we develop to predict how many cameras would be on someone based on their demographic data
+- something like this as inspiration: https://cs.brown.edu/courses/csci1951-a/projects/project_poster/Cam%20Spotter/poster.pdf
 
 
 ## TODO
