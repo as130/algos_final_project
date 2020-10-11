@@ -3,6 +3,7 @@
 ## Notes
 - Should we do a prediction test, and then as a reach goal have this website that we develop to predict how many cameras would be on someone based on their demographic data
 - something like this as inspiration: https://cs.brown.edu/courses/csci1951-a/projects/project_poster/Cam%20Spotter/poster.pdf
+- If we don't have the website we could have a hypothesis test too.  If we do this, should we have some research question?
 
 
 ## TODO
