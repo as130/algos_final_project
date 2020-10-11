@@ -1,7 +1,7 @@
 # Algorithms For the People Final Project
 
 ## Notes
-- Should we do a prediction test, and then as a reach goal have this website that we develop to predict how many cameras would be on someone
+- Should we do a prediction test, and then as a reach goal have this website that we develop to predict how many cameras would be on someone based on their demographic data
 
 
 ## TODO
