@@ -1,5 +1,9 @@
 # Algorithms For the People Final Project
 
+## Notes
+- Should we do a prediction test, and then as a reach goal have this website that we develop to predict how many cameras would be on someone
+
+
 ## TODO
 - [ ] clean Atlas csv dataset (turn into .db file)
 - [ ] investigate census data
