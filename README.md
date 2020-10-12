@@ -30,10 +30,11 @@ We are going to use the US Census demographic data in order to make conclusions 
 - hypothesis test: using python & pandas
 
 ## TODO
-- [ ] clean Atlas csv dataset (turn into .db file)
+- [ ] clean Atlas csv dataset (turn into .db file), clean census data (all)
+- [ ] load data into python files (Juptyer notebook setup) (all)
 - [x] investigate census data
 - [ ] investigate what methods we want to use for analysis
-- [ ] write more detailed proposal
+- [x] write more detailed proposal
 
 ## Website information (reach goal)
 - Have a website that we develop to show how many cameras would be on someone based on their demographic data (backend pulls from hypothesis test)
