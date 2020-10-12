@@ -1,5 +1,9 @@
 # Algorithms For the People Final Project
 
+## Schedule
+
+
+
 ## Notes
 - Should we do a prediction test, and then as a reach goal have this website that we develop to predict how many cameras would be on someone based on their demographic data
 - something like this as inspiration: https://cs.brown.edu/courses/csci1951-a/projects/project_poster/Cam%20Spotter/poster.pdf
@@ -8,7 +12,7 @@
 
 ## TODO
 - [ ] clean Atlas csv dataset (turn into .db file)
-- [ ] investigate census data
+- [x] investigate census data
 - [ ] investigate what methods we want to use for analysis
 - [ ] write more detailed proposal
 
@@ -23,12 +27,9 @@ https://atlasofsurveillance.org/
 
 ## Data
 
-**potential dataset**: https://www.kaggle.com/muonneutrino/us-census-demographic-data
+**us-census-demographic-data**: https://www.kaggle.com/muonneutrino/us-census-demographic-data This dataset includes demographic data from throughout the US from 2015-2017.  This works well with the Atlas of Surveillance dataset because it includes data from before 2015 as recent as 2020.  It contains gender and race for different counties and states.  It is saved as a csv file in the us-census-data directory.
 
-**demographic**: this contains the accumulated populations for 2016, 2017, and
-2018 for each region, by age and sex. That is, for one row of the table, this gives
-the total number (in 2016, 2017, and 2018) of people of that age and that gender
-for the specific region (we could potentially use this).
+**atlas-of-surveillance**
 
 ## Environment & Dependencies
 * sqlite database 
