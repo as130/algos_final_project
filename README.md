@@ -42,6 +42,7 @@ We are going to use the US Census demographic data in order to make conclusions 
 
 ## Environment & Dependencies
 * sqlite database 
+* Jupyter notebook: python & numpy/pandas
 * GitHub commands
     * After making change that you made on your local computer and want everyone else to see
         * git add -A
