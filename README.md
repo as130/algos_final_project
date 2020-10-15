@@ -30,7 +30,7 @@ We are going to use the US Census demographic data in order to make conclusions 
 - hypothesis test: using python & pandas
 
 ## TODO
-- [ ] clean Atlas csv dataset (turn into .db file), clean census data (all)
+- [x] clean Atlas csv dataset (turn into .db file), clean census data (all)
 - [x] load data into python files (Jupyter notebook setup) (all)
 - [x] investigate census data
 - [ ] investigate what methods we want to use for analysis
