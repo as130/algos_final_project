@@ -42,7 +42,9 @@ We are going to use the US Census demographic data in order to make conclusions 
 
 ## Environment & Dependencies
 * sqlite database 
-* Jupyter notebook: python & numpy/pandas
+* Jupyter notebook for analysis
+   * Intall Jupyter here: https://jupyter.org/install
+   * Tutorial: https://www.dataquest.io/blog/jupyter-notebook-tutorial/
 * GitHub commands
     * After making change that you made on your local computer and want everyone else to see
         * git add -A
