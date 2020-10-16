@@ -41,6 +41,9 @@ Significance level: 0.05
 - [ ] investigate what methods we want to use for analysis
 - [x] write more detailed proposal
 
+## Presentation
+http://brown.edu/go/atlas-presentation
+
 ## Website information (reach goal)
 - Have a website that we develop to show how many cameras would be on someone based on their demographic data (backend pulls from hypothesis test)
 - something like this as inspiration: https://cs.brown.edu/courses/csci1951-a/projects/project_poster/Cam%20Spotter/poster.pdf
