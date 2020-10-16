@@ -36,6 +36,7 @@ Based on previous data, members of the Black community have a greater number of 
 
 ## Methods
 - hypothesis test: using python & pandas
+- Machine learning model doesn't look that bad: https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/ knn
 
 ## TODO
 - [x] clean Atlas csv dataset (turn into .db file), clean census data (all)
