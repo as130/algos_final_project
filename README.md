@@ -24,7 +24,11 @@ We are going to use the US Census demographic data in order to make conclusions 
 **atlas-of-surveillance**: csv file: https://atlasofsurveillance.org/
 
 ## Hypotheses
-(tbd)
+### Hypothesis Test 1
+Null Hypothesis: There is no greater number of cameras directed towards members of the Black community.
+Alternative Hypothesis: Based on previous data, members of the Black community have a greater number of cameras directed towards them. 
+    - Try the above hypotheses for different demographics.
+
 
 ## Methods
 - hypothesis test: using python & pandas
