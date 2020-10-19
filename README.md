@@ -24,7 +24,17 @@ We are going to use the US Census demographic data in order to make conclusions 
 **atlas-of-surveillance**: csv file: https://atlasofsurveillance.org/
 
 ## Hypotheses
-### Hypothesis Test 1
+### Hypothes Test 1 Chi-square test for independence
+
+#### Null Hypothesis:
+The type of surveillance technology used does not depend on demographic group (there is no relationship).
+(p-value greater than significance level)
+
+#### Alternative Hypothesis:
+The type of surveillance technology used does depend on demographic group.
+(p-value less than significance level)
+
+### Hypothesis Test 2
 #### Null Hypothesis: 
 There is no greater number of cameras directed towards members of the Black community.
 #### Alternative Hypothesis: 
@@ -33,7 +43,7 @@ Based on previous data, members of the Black community have a greater number of 
 - Try the above hypotheses for different demographics.
 #### Significance level: 0.05
 
-### Hypothesis Test 2
+### Hypothesis Test 3
 - We should run OLS perhaps in multiple states and counties to see if there is a relationship between different demographic groups (being the independent variable) and number of surveillance cameras being the dependent variable.
 
 ## Methods
