@@ -25,11 +25,14 @@ We are going to use the US Census demographic data in order to make conclusions 
 
 ## Hypotheses
 ### Hypothes Test 1 Chi-square test for independence
+
 #### Null Hypothesis:
-There is no relationship between demographic category and the type of surveillance device used
+The type of surveillance technology used does not depend on demographic group (there is no relationship).
+(p-value greater than significance level)
 
 #### Alternative Hypothesis:
-There is a relationship between demographic category
+The type of surveillance technology used does depend on demographic group.
+(p-value less than significance level)
 
 ### Hypothesis Test 2
 #### Null Hypothesis: 
