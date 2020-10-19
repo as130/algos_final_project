@@ -33,6 +33,8 @@ Based on previous data, members of the Black community have a greater number of 
 - Try the above hypotheses for different demographics.
 #### Significance level: 0.05
 
+### Hypothesis Test 2
+- We should run OLS perhaps in multiple states and counties to see if there is a relationship between different demographic groups (being the independent variable) and number of surveillance cameras being the dependent variable.
 
 ## Methods
 - hypothesis test: using python & pandas
