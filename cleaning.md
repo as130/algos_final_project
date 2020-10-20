@@ -14,4 +14,9 @@ Furthermore, we had to append county to the end of each conuty name as follows i
 UPDATE acs2017_county_data SET County = County + ' County' WHERE NOT County LIKE '%County%';
 ```
 
+and for 2015: 
+```
+UPDATE acs2015_county_data SET County = County + ' County' WHERE NOT County LIKE '%County%';
+```
+
 We also imported the three csv files from our two different datasets and put them into one DB file with three tables.
