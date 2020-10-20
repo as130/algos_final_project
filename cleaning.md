@@ -6,7 +6,7 @@ In order to perform cleaning the following SQL queries were run over the Atlas t
 UPDATE Atlas_of_Surveillance_20201007 SET State = "Wyoming" WHERE State == "WY";
 ```
 
-So that state names were consistent across all states
+so that state names were consistent across all states.
 
 Furthermore, we had to append county to the end of each conuty name as follows in the census datasets:
 
