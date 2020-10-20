@@ -19,4 +19,6 @@ and for 2015:
 UPDATE acs2015_county_data SET County = County + ' County' WHERE NOT County LIKE '%County%';
 ```
 
+in the sqlite3 CLI.
+
 We also imported the three csv files from our two different datasets and put them into one DB file with three tables.
