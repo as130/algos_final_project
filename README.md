@@ -8,6 +8,9 @@ characteristics you find interesting. To do this you will need other sources of 
 
 We are going to use the US Census demographic data in order to make conclusions regarding demographics, gender, and surveillance technologies.
 
+## Open Questions
+- How do we make sure that we are talking about these numbers/findings in an ethical and respecftul way in our final report/presentation?
+
 ## Schedule
 - ~~Oct 12: methods & proposal~~
 - ~~Oct 19: have database cleaned and loaded into python (pandas), develop research question/hypothesis and determine which tests will be used~~
@@ -54,8 +57,9 @@ Based on previous data, members of the Black community have a greater number of 
 - [x] clean Atlas csv dataset (turn into .db file), clean census data (all)
 - [x] load data into python files (Jupyter notebook setup) (all)
 - [x] investigate census data
-- [ ] investigate what methods we want to use for analysis
+- [x] investigate what methods we want to use for analysis
 - [x] write more detailed proposal
+- [ ] Schedule meeting with Ghous?
 
 ## Presentation
 http://brown.edu/go/atlas-presentation
