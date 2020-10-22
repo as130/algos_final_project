@@ -36,7 +36,7 @@ JOIN_QUERY = '''SELECT
                 WHERE 
                        (acs2015_county_data.State || acs2015_county_data.County) = (Atlas_of_Surveillance_20201007.State || Atlas_of_Surveillance_20201007.County) 
                            AND 
-                        Atlas_of_Surveillance_20201007.Technology = \'Real-Time Crime Center\';
+                        Atlas_of_Surveillance_20201007.Technology = ?;
             '''
 
 DISTINCT_TECH = 'SELECT DISTINCT Technology FROM Atlas_of_Surveillance_20201007;'
@@ -57,4 +57,10 @@ SELECT_TOTAL_POP_2015 = "SELECT TotalPop from acs2015_county_data"
 SELECT_BLACK_2015 = "SELECT Black from acs2015_county_data"
 
 SELECT_STATE_2015 = "SELECT State from acs2015_county_data"
+
+CLEAN_STATES = "UPDATE Atlas_of_Surveillance_20201007 SET State = \'%s\' WHERE State = \'%s\';"
+
+UPDATE_COUNTIES_2015 = "UPDATE acs2015_county_data SET County = County + ' County' WHERE NOT County LIKE '%County%';"
+
+UPDATE_COUNTIES_2017 = "UPDATE acs2017_county_data SET County = County + ' County' WHERE NOT County LIKE '%County%';"
 
