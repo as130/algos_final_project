@@ -20,6 +20,9 @@ We are going to use the US Census demographic data in order to make conclusions 
 - Nov 16: Have presentation prepared and rehearsed
 - Nov 19: Present! :) 
 
+## Report:
+https://www.overleaf.com/3262343194kdkyqcnrncwy
+
 ## Data
 
 **us-census-demographic-data**: https://www.kaggle.com/muonneutrino/us-census-demographic-data This dataset includes demographic data from throughout the US from 2015-2017.  This works well with the Atlas of Surveillance dataset because it includes data from before 2015 as recent as 2020.  It contains gender and race for different counties and states.  It is saved as a csv file in the us-census-data directory.
