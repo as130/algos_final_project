@@ -14,7 +14,7 @@ We are going to use the US Census demographic data in order to make conclusions 
 ## Schedule
 - ~~Oct 12: methods & proposal~~
 - ~~Oct 19: have database cleaned and loaded into python (pandas), develop research question/hypothesis and determine which tests will be used~~
-- Oct 26: statistical methods run
+~~- Oct 26: statistical methods run~~
 - Nov 2: analyze results
 - Nov 9: works on data visualization/website (time permitting)
 - Nov 16: Have presentation prepared and rehearsed
@@ -28,29 +28,6 @@ https://www.overleaf.com/3262343194kdkyqcnrncwy
 **us-census-demographic-data**: https://www.kaggle.com/muonneutrino/us-census-demographic-data This dataset includes demographic data from throughout the US from 2015-2017.  This works well with the Atlas of Surveillance dataset because it includes data from before 2015 as recent as 2020.  It contains gender and race for different counties and states.  It is saved as a csv file in the us-census-data directory.
 
 **atlas-of-surveillance**: csv file: https://atlasofsurveillance.org/
-
-## Hypotheses
-### Hypothes Test 1 Chi-square test for independence
-
-#### Null Hypothesis:
-The type of surveillance technology used does not depend on demographic group (there is no relationship).
-(p-value greater than significance level)
-
-#### Alternative Hypothesis:
-The type of surveillance technology used does depend on demographic group.
-(p-value less than significance level)
-
-### Hypothesis Test 2
-#### Null Hypothesis: 
-There is no greater number of cameras directed towards members of the Black community.
-#### Alternative Hypothesis: 
-Based on previous data, members of the Black community have a greater number of cameras directed towards them. 
-    
-- Try the above hypotheses for different demographics.
-#### Significance level: 0.05
-
-### Hypothesis Test 3
-- We should run OLS perhaps in multiple states and counties to see if there is a relationship between different demographic groups (being the independent variable) and number of surveillance cameras being the dependent variable.
 
 ## Methods
 - hypothesis test: using python & pandas
