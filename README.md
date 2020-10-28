@@ -14,7 +14,7 @@ We are going to use the US Census demographic data in order to make conclusions 
 ## Schedule
 - ~~Oct 12: methods & proposal~~
 - ~~Oct 19: have database cleaned and loaded into python (pandas), develop research question/hypothesis and determine which tests will be used~~
-~~- Oct 26: statistical methods run~~
+- ~~- Oct 26: statistical methods run~~
 - Nov 2: analyze results
 - Nov 9: works on data visualization/website (time permitting)
 - Nov 16: Have presentation prepared and rehearsed
