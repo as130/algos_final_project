@@ -40,6 +40,7 @@ https://www.overleaf.com/3262343194kdkyqcnrncwy
 - [x] investigate what methods we want to use for analysis
 - [x] write more detailed proposal
 - [ ] Schedule meeting with Ghous?
+- [ ] Add figure numbers in report
 
 ## Presentation
 http://brown.edu/go/atlas-presentation
