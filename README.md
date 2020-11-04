@@ -8,6 +8,9 @@ characteristics you find interesting. To do this you will need other sources of 
 
 We are going to use the US Census demographic data in order to make conclusions regarding demographics, gender, and surveillance technologies.
 
+## Link to CLI (please only use from this link):
+https://github.com/as130/algos_final_project_cli
+
 ## Open Questions
 - How do we make sure that we are talking about these numbers/findings in an ethical and respecftul way in our final report/presentation?
 
