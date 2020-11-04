@@ -26,7 +26,7 @@ ML_DATA_QUERY = '''
                 '''
 
 JOIN_QUERY = '''SELECT 
-                       acs2015_county_data.Black, 
+                       acs2015_county_data.White, 
                        acs2015_county_data.TotalPop, 
                        (Atlas_of_surveillance_20201007.State || \' \' || Atlas_of_Surveillance_20201007.County), 
                        acs2015_county_data.Poverty 
