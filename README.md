@@ -51,6 +51,7 @@ http://brown.edu/go/atlas-presentation
 - [x] Add figure numbers in report
 
 ## Environment & Dependencies
+* Click API used to created CLI in Python
 * sqlite database 
 * Jupyter notebook for analysis
    * Intall Jupyter here: https://jupyter.org/install
