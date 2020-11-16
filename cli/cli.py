@@ -1,7 +1,10 @@
 import click
 import pickle
 import numpy as np
+from pyfiglet import Figlet
 FILENAME = 'trained_knn.sav'
+
+
 
 # load the model from disk
 @click.command()
@@ -29,6 +32,9 @@ FILENAME = 'trained_knn.sav'
 def cli(black, population, poverty, men, women, white, native, hispanic, 
         asian, pacific, income, drive, walk, transit, professional, work_at_home, 
        unemployment, selfemployed, employed) :
+    welcome =Figlet(font='slant')
+    click.echo(result.renderText("welcome to our CLI!"))
+
     click.echo(click.style('Thinking...', blink=True, fg='cyan'))
     loaded_model = pickle.load(open(FILENAME, 'rb'))
     X = [black, population, poverty, men, women, white, native, hispanic, 
