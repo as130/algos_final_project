@@ -8,48 +8,50 @@ characteristics you find interesting. To do this you will need other sources of 
 
 We are going to use the US Census demographic data in order to make conclusions regarding demographics, gender, and surveillance technologies.
 
+## Link to CLI (please only use from this link):
+https://github.com/as130/algos_final_project_cli
+
+## Report:
+https://www.overleaf.com/3262343194kdkyqcnrncwy
+
+## Presentation
+http://brown.edu/go/atlas-presentation
+
 ## Open Questions
 - How do we make sure that we are talking about these numbers/findings in an ethical and respecftul way in our final report/presentation?
+
+## Data
+**us-census-demographic-data**: https://www.kaggle.com/muonneutrino/us-census-demographic-data This dataset includes demographic data from throughout the US from 2015-2017.  This works well with the Atlas of Surveillance dataset because it includes data from before 2015 as recent as 2020.  It contains gender and race for different counties and states.  It is saved as a csv file in the us-census-data directory.
+
+**atlas-of-surveillance**: csv file: https://atlasofsurveillance.org/
+
+## Methods for Analysis
+- OLS Regression Tests 
+- K-Nearest Neighbors Machine Learning Algorithm: https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/ 
+
+## CLI (reach goal)
+- Have a python script that runs in the command line that allows people to clone our repo and run our k-nearest neighbors algorithm with their own information and play around with it with different county information. 
 
 ## Schedule
 - ~~Oct 12: methods & proposal~~
 - ~~Oct 19: have database cleaned and loaded into python (pandas), develop research question/hypothesis and determine which tests will be used~~
 - ~~- Oct 26: statistical methods run~~
-- Nov 2: analyze results
-- Nov 9: works on data visualization/website (time permitting)
+- ~~Nov 2: analyze results~~
+- ~~Nov 9: works on data visualization/cli(time permitting)~~
 - Nov 16: Have presentation prepared and rehearsed
 - Nov 19: Present! :) 
 
-## Report:
-https://www.overleaf.com/3262343194kdkyqcnrncwy
-
-## Data
-
-**us-census-demographic-data**: https://www.kaggle.com/muonneutrino/us-census-demographic-data This dataset includes demographic data from throughout the US from 2015-2017.  This works well with the Atlas of Surveillance dataset because it includes data from before 2015 as recent as 2020.  It contains gender and race for different counties and states.  It is saved as a csv file in the us-census-data directory.
-
-**atlas-of-surveillance**: csv file: https://atlasofsurveillance.org/
-
-## Methods
-- hypothesis test: using python & pandas
-- Machine learning model doesn't look that bad: https://www.geeksforgeeks.org/learning-model-building-scikit-learn-python-machine-learning-library/ knn
 
 ## TODO
-- [x] clean Atlas csv dataset (turn into .db file), clean census data (all)
-- [x] load data into python files (Jupyter notebook setup) (all)
-- [x] investigate census data
-- [x] investigate what methods we want to use for analysis
-- [x] write more detailed proposal
-- [ ] Schedule meeting with Ghous?
-- [ ] Add figure numbers in report
-
-## Presentation
-http://brown.edu/go/atlas-presentation
-
-## Website information (reach goal)
-- Have a website that we develop to show how many cameras would be on someone based on their demographic data (backend pulls from hypothesis test)
-- something like this as inspiration: https://cs.brown.edu/courses/csci1951-a/projects/project_poster/Cam%20Spotter/poster.pdf
+- [x] Clean Atlas CSV dataset (turn into .db file), clean census data (all)
+- [x] Load data into python files (Jupyter notebook setup) (all)
+- [x] Investigate census data
+- [x] Investigate what methods we want to use for analysis
+- [x] Write more detailed proposal
+- [x] Add figure numbers in report
 
 ## Environment & Dependencies
+* Click API used to created CLI in Python
 * sqlite database 
 * Jupyter notebook for analysis
    * Intall Jupyter here: https://jupyter.org/install
